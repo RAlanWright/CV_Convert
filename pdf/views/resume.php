@@ -42,9 +42,9 @@
       </section>
       <section style="min-height:50px;padding:.5em;">
         <h4 style="color:#2F58C6">Side Projects</h4>
-        <p><strong>TripPlanner.java:</strong> Takes user input and calculates budget based on duration of trip, currency conversion, and displays time difference.</p>
-        <p><strong>OddsAndEvens.java:</strong> User input and randomized computer choice to see who wins a game of Odds and Evens.</p>
-        <p><strong>CV_Convert:</strong> Takes HTML/CSS and runs it through PhantomJS using PHP in order to generate a PDF file.</p>
+        <p><strong>TripPlanner.java:</strong> Takes user input and calculates budget based on duration of trip, currency conversion, and displays time difference. <br>https://github.com/RAlanWright/Trip_Planner</p>
+        <p><strong>OddsAndEvens.java:</strong> User input and randomized computer choice to see who wins a game of Odds and Evens. <br>https://github.com/RAlanWright/Odds-and-Evens</p>
+        <p><strong>CV_Convert:</strong> Takes HTML/CSS and runs it through PhantomJS using PHP in order to generate a PDF file. <br>https://github.com/RAlanWright/CV_Convert</p>
       </section>
 
       <section style="min-height:50px;padding:.5em;">
