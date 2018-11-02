@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "vendor\\": "app/vendor"
+    }
+  },
+  "require": {
+    "twig/twig": "^2.5",
+    "symfony/process": "^4.1"
+  }
+}
