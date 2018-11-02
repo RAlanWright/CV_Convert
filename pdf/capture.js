@@ -5,8 +5,8 @@ var fs = require('fs'),
 page.content = fs.read(args[1]);
 
 page.viewportSize = {
-  width: 1024,
-  height: 1024
+  width: 1920,
+  height: 1080
 };
 
 page.paperSize = {
