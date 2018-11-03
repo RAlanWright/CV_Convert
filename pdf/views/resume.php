@@ -4,7 +4,6 @@
 <head>
 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-
   <link rel="stylesheet" href="styles.css">
   <style>
     <?php include("styles.css");
@@ -91,9 +90,9 @@
       <section style="min-height:50px;padding:.5em;">
         <h4 style="color:#2F58C6">Certifications</h4>
         <ul>
-        <li>CompTIA IT Fundamentals</li>
-        <li>CompTIA A+</li>
-      </ul>
+          <li>CompTIA IT Fundamentals</li>
+          <li>CompTIA A+</li>
+        </ul>
       </section>
     </div>
   </div>
