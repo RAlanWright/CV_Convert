@@ -9,3 +9,5 @@ composer.phar
 composer.lock
 composer.json
 htmlToPDF.js
+/changelogs
+simpleGitScript.sh

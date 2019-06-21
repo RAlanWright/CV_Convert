@@ -23,12 +23,12 @@
 	  <section style="min-height:50px;padding:.5em;">
         <h4 class="strongFont" style="color:#2F58C6">Experience</h4>
         <p><h5 class="strongFont">FedEx Services - <em>Developer I</em>, Collierville TN  </h5><h6><em>06/2018 - Present</em></h6>
-        Currently working with Software Asset Management team to integrate Flexera services to maintain software compliance company-wide.</p> <p>Work includes:  Staging data into MS SQL Server; Running queries on staged data; Utilizing C++ and Bash commands within RedHat Enterprise Linux virtual machine to prep data for testing; Managing GitLab repository for source code used in the RHEL virtual machine; Working with RDP and SSH connections daily. </p><p>Previously worked with the Enhancing Customer Data Capability organization using mainly Informatica while also training in Java development.</p>
+        Currently working with Software Asset Management team to integrate Flexera services to maintain software compliance company-wide.</p> <p>Work includes:  Staging data into MS SQL Server; Running queries on staged data; Utilizing C++ and Bash scripting within Red Hat Enterprise Linux virtual machine to prep data for testing; Managing GitLab repository for source code used in the RHEL virtual machine; Working with RDP and SSH connections daily. </p><p>Previously worked with the Enhancing Customer Data Capability organization using mainly Informatica while also training in Java development.</p>
         
 		<p><h5 class="strongFont">LaunchCode - <em>Teaching Fellow</em>, Memphis TN</h5><h6><em>02/2019 - Present</em></h6>
         Providing assistance to students in Computer Science Fundamentals and Web Development, both in person and remotely via Slack.  The LC101 curriculum consists of: Python/Flask, Java/Spring Boot, and Data Structures/Algorithms.</p>
 		
-        <p><h5 class="strongFont">Stay Safe Systems - <em>Technician</em>, Memphis TN</h5><h6><em>03/2017 - 05/2017</em></h6>
+        <p><h5 class="strongFont">Stay Safe Systems - <em>Technician</em>, Memphis TN</h5><h6><em>01/2016 - 05/2016</em></h6>
         Duties included the wiring of alarm and camera systems, routing cable in homes/businesses, troubleshooting security system software, repairing and installing security gates.</p>
       </section>
 
@@ -41,7 +41,7 @@
 		  <h5 class="strongFont">University of Memphis - <em>B.A. Foreign Languages</em></h5><h6> <em>2013 - 2017 </em></h6> Completed studies abroad with emphasis on research in foreign language.  Undergraduate studies included several courses in Engineering Technology including Programming in C++.
 		</p>
 		<p>
-		  <h5 class="strongFont">Western Governor's University - <em>B.S. Computer Science </em></h5><h6><em>2019 - In Progress </em></h6> Pursuing online education in order to have time for employment, and further both skill-set and knowledge base.
+		  <h5 class="strongFont">Western Governor's University - <em>B.S. Software Development</em></h5><h6><em>2019 - In Progress </em></h6> Pursuing online education in order to have time for employment, and further both skill-set and knowledge base.
 		</p>
       </section>
       <section style="min-height:50px;padding:.5em;">
