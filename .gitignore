@@ -2,7 +2,6 @@
 /phantomjs-2.1.1-linux-x86_64
 /vendor
 Resume.html
-styles.css
 package.json
 yarn.lock
 composer.phar
