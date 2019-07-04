@@ -5,16 +5,26 @@
   margin: auto;
 }
 .col1 {
-  flex: 4;
+  flex: 5;
   border-right-color:10px #638DFD;
   /* border: 1px solid #000; */
 }
 .col2 {
-  flex: 1;
+  flex: 3;
   border-left-color:10px #638DFD;
   /* border: 1px solid #000; */
+}
+.strongFont {
+  font-weight: bold;
+
+}
+#headerSides {
+   padding-left: 5em;
 }
 section {
   min-height: 50px;
   padding: 1em;
+}
+.nameSpace {
+	text-align: center;
 }
