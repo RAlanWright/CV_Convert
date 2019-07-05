@@ -1,7 +1,7 @@
 .container {
   display: flex;
   max-height: 100%;
-  margin: 4em auto;
+  margin: auto;
   /* border: 3px solid #2F58C6; */
   /* justify-content: center; */
   
