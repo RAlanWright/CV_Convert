@@ -20,7 +20,7 @@
 }
 
 .col2 {
-  flex: 1;
+  flex: 2;
   border-left:3px solid #638DFD;
 }
 
@@ -32,10 +32,6 @@
   color:#2F58C6;
 }
 
-#headerSides {
-  padding-left: 1em;
-}
-
 section {
   min-height: 10px;
   padding: .5em;
@@ -43,4 +39,8 @@ section {
 
 .nameSpace {
 	text-align: center;
+}
+
+.projects {
+  padding-left: 1em;
 }
