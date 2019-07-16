@@ -48,3 +48,14 @@ section {
 .projects {
   padding-left: 1em;
 }
+
+.miniSection {
+  /* display: flex; */
+  /* flex-direction: row; */
+}
+
+.sectionItem {
+  /* flex-direction: column; */
+  /* flex: 1; */
+  padding: .3em;
+}
