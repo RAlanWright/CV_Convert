@@ -59,25 +59,13 @@ section {
 .topicContainer {
   display: flex;
   align-items: center;
-<<<<<<< HEAD
-  justify-content: space-evenly;
-=======
   justify-content: space-between;
->>>>>>> b97ce973c179f37afe9fa2cc3b55f834c1bb638e
 }
 
 .topics {
   flex: 1;
-<<<<<<< HEAD
-  /* border: 1px green solid; */
-=======
->>>>>>> b97ce973c179f37afe9fa2cc3b55f834c1bb638e
 }
 
 .topicItem {
   padding: .2em;
-<<<<<<< HEAD
-  /* border: 1px tomato solid; */
-=======
->>>>>>> b97ce973c179f37afe9fa2cc3b55f834c1bb638e
 }
