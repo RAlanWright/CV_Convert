@@ -5,7 +5,9 @@
 .container {
   display: flex;
   max-height: 100%;
-  margin: auto;
+  /* margin: auto; */
+  margin-top: 1vh;
+  margin-bottom: 1vh;
 }
 
 .nameBorder {
