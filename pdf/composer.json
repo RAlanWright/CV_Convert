@@ -6,6 +6,6 @@
   },
   "require": {
     "twig/twig": "^2.5",
-    "symfony/process": "^4.1"
+    "symfony/process": "^5.4"
   }
 }
