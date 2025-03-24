@@ -71,3 +71,7 @@ section {
 .topicItem {
   padding: .2em;
 }
+
+.educationSection, .certificationSection {
+  break-before: page;
+}
