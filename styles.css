@@ -24,6 +24,21 @@
 .col2 {
   flex: 30%;
   border-left: 3px solid #638DFD;
+    /* Enforce min-width and word wrap for Chrome */
+    min-width: 1rem;
+    overflow-wrap: break-word;
+    
+    @media (max-width: 950px){
+      flex: 35%;
+    }
+
+    @media (max-width: 700px){
+      flex: 40%;
+    }
+
+    @media (max-width: 500px){
+      flex: 50%;
+    }
 }
 
 .strongFont {
