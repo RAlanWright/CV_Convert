@@ -18,8 +18,7 @@
 
 .col1 {
   flex: 70%;
-  border-right-color: 3px solid #638DFD;
-  border-bottom-color: 3px #638DFD;
+  border-right: 1px solid #638DFD;
 }
 
 .col2 {
